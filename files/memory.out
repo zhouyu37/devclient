@@ -1,0 +1,505 @@
+# SMBIOS implementations newer than version 2.8 are not
+# fully supported by this version of dmidecode.
+Memory Device
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 32 GB
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU1 DIMM A1
+	Bank Locator: A1_Node0_Channel0_Dimm1
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2133 MHz
+	Manufacturer: Samsung
+	Serial Number: 31AA81DB
+	Asset Tag: CPU1 DIMM A1_AssetTag
+	Part Number: M393A4K40BB0-CPB
+	Rank: 2
+	Configured Clock Speed: 2133 MHz
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU1 DIMM A2
+	Bank Locator: A1_Node0_Channel0_Dimm2
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU1 DIMM A3
+	Bank Locator: A1_Node0_Channel0_Dimm3
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 32 GB
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU1 DIMM B1
+	Bank Locator: A1_Node0_Channel1_Dimm1
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2133 MHz
+	Manufacturer: Samsung
+	Serial Number: 31AA79D7
+	Asset Tag: CPU1 DIMM B1_AssetTag
+	Part Number: M393A4K40BB0-CPB
+	Rank: 2
+	Configured Clock Speed: 2133 MHz
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU1 DIMM B2
+	Bank Locator: A1_Node0_Channel1_Dimm2
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU1 DIMM B3
+	Bank Locator: A1_Node0_Channel1_Dimm3
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 32 GB
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU1 DIMM C1
+	Bank Locator: A1_Node0_Channel2_Dimm1
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2133 MHz
+	Manufacturer: Samsung
+	Serial Number: 31AA8100
+	Asset Tag: CPU1 DIMM C1_AssetTag
+	Part Number: M393A4K40BB0-CPB
+	Rank: 2
+	Configured Clock Speed: 2133 MHz
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU1 DIMM C2
+	Bank Locator: A1_Node0_Channel2_Dimm2
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU1 DIMM C3
+	Bank Locator: A1_Node0_Channel2_Dimm3
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 32 GB
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU1 DIMM D1
+	Bank Locator: A1_Node0_Channel3_Dimm1
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2133 MHz
+	Manufacturer: Samsung
+	Serial Number: 31AA81DE
+	Asset Tag: CPU1 DIMM D1_AssetTag
+	Part Number: M393A4K40BB0-CPB
+	Rank: 2
+	Configured Clock Speed: 2133 MHz
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU1 DIMM D2
+	Bank Locator: A1_Node0_Channel3_Dimm2
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU1 DIMM D3
+	Bank Locator: A1_Node0_Channel3_Dimm3
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 32 GB
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU2 DIMM A1
+	Bank Locator: A1_Node1_Channel0_Dimm1
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2133 MHz
+	Manufacturer: Samsung
+	Serial Number: 31AA81E1
+	Asset Tag: CPU2 DIMM A1_AssetTag
+	Part Number: M393A4K40BB0-CPB
+	Rank: 2
+	Configured Clock Speed: 2133 MHz
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU2 DIMM A2
+	Bank Locator: A1_Node1_Channel0_Dimm2
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU2 DIMM A3
+	Bank Locator: A1_Node1_Channel0_Dimm3
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 32 GB
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU2 DIMM B1
+	Bank Locator: A1_Node1_Channel1_Dimm1
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2133 MHz
+	Manufacturer: Samsung
+	Serial Number: 31AA8185
+	Asset Tag: CPU2 DIMM B1_AssetTag
+	Part Number: M393A4K40BB0-CPB
+	Rank: 2
+	Configured Clock Speed: 2133 MHz
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU2 DIMM B2
+	Bank Locator: A1_Node1_Channel1_Dimm2
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU2 DIMM B3
+	Bank Locator: A1_Node1_Channel1_Dimm3
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 32 GB
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU2 DIMM C1
+	Bank Locator: A1_Node1_Channel2_Dimm1
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2133 MHz
+	Manufacturer: Samsung
+	Serial Number: 31AA8147
+	Asset Tag: CPU2 DIMM C1_AssetTag
+	Part Number: M393A4K40BB0-CPB
+	Rank: 2
+	Configured Clock Speed: 2133 MHz
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU2 DIMM C2
+	Bank Locator: A1_Node1_Channel2_Dimm2
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU2 DIMM C3
+	Bank Locator: A1_Node1_Channel2_Dimm3
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: 72 bits
+	Data Width: 64 bits
+	Size: 32 GB
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU2 DIMM D1
+	Bank Locator: A1_Node1_Channel3_Dimm1
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: 2133 MHz
+	Manufacturer: Samsung
+	Serial Number: 31AA81DF
+	Asset Tag: CPU2 DIMM D1_AssetTag
+	Part Number: M393A4K40BB0-CPB
+	Rank: 2
+	Configured Clock Speed: 2133 MHz
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU2 DIMM D2
+	Bank Locator: A1_Node1_Channel3_Dimm2
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
+
+Memory Device
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: RIMM
+	Set: None
+	Locator: CPU2 DIMM D3
+	Bank Locator: A1_Node1_Channel3_Dimm3
+	Type: DDR4
+	Type Detail: Synchronous
+	Speed: Unknown
+	Manufacturer: NO DIMM
+	Serial Number: NO DIMM
+	Asset Tag: NO DIMM
+	Part Number: NO DIMM
+	Rank: Unknown
+	Configured Clock Speed: Unknown
+	Minimum Voltage:  Unknown
+	Maximum Voltage:  Unknown
+	Configured Voltage:  Unknown
