@@ -1,0 +1,295 @@
+2019-12-31 16:16:21,214-root-INFO-logclass: 1222
+2019-12-31 16:16:21,214-root-ERROR-logclass: 1222
+2019-12-31 16:16:24,660-root-INFO-logclass: 1222
+2019-12-31 16:16:24,660-root-ERROR-logclass: 1222
+2020-01-02 10:16:41,177-root-INFO-logclass: 1222
+2020-01-02 10:16:41,177-root-ERROR-logclass: 1222
+2020-01-02 10:17:37,806-root-INFO-logclass: 1222
+2020-01-02 10:17:37,806-root-ERROR-logclass: 1222
+2020-01-02 10:17:42,157-root-INFO-logclass: 1222
+2020-01-02 10:17:42,157-root-ERROR-logclass: 1222
+2020-01-02 10:36:23,010-root-INFO-logclass: 1222
+2020-01-02 10:36:23,012-root-ERROR-logclass: 1222
+2020-01-02 10:36:37,075-root-INFO-logclass: 1222
+2020-01-02 10:36:37,075-root-ERROR-logclass: 1222
+2020-01-02 10:37:09,555-root-INFO-logclass: 1222
+2020-01-02 10:37:09,555-root-ERROR-logclass: 1222
+2020-01-02 11:24:58,433-root-INFO-logclass: 1222
+2020-01-02 11:24:58,433-root-ERROR-logclass: 1222
+2020-01-02 15:10:28,338-root-INFO-logclass: 1222
+2020-01-02 15:10:28,339-root-ERROR-logclass: 1222
+2020-01-02 15:10:42,813-root-INFO-logclass: 1222
+2020-01-02 15:10:42,815-root-ERROR-logclass: 1222
+2020-01-02 15:10:54,927-root-INFO-logclass: 1222
+2020-01-02 15:10:54,928-root-ERROR-logclass: 1222
+2020-01-02 15:12:19,273-root-INFO-logclass: 1222
+2020-01-02 15:12:19,273-root-ERROR-logclass: 1222
+2020-01-02 15:12:33,088-root-INFO-logclass: 1222
+2020-01-02 15:12:33,088-root-ERROR-logclass: 1222
+2020-01-02 15:13:01,203-root-INFO-logclass: 1222
+2020-01-02 15:13:01,203-root-ERROR-logclass: 1222
+2020-01-02 15:13:11,959-root-INFO-logclass: 1222
+2020-01-02 15:13:11,959-root-ERROR-logclass: 1222
+2020-01-02 15:16:48,602-root-INFO-logclass: 1222
+2020-01-02 15:16:48,602-root-ERROR-logclass: 1222
+2020-01-02 15:17:08,289-root-INFO-logclass: 1222
+2020-01-02 15:17:08,289-root-ERROR-logclass: 1222
+2020-01-02 15:17:54,910-root-INFO-logclass: 1222
+2020-01-02 15:17:54,911-root-ERROR-logclass: 1222
+2020-01-02 15:18:17,858-root-INFO-logclass: 1222
+2020-01-02 15:18:17,858-root-ERROR-logclass: 1222
+2020-01-02 15:18:29,944-root-INFO-logclass: 1222
+2020-01-02 15:18:29,944-root-ERROR-logclass: 1222
+2020-01-02 15:19:25,914-root-INFO-logclass: 1222
+2020-01-02 15:19:25,914-root-ERROR-logclass: 1222
+2020-01-02 15:19:39,913-root-INFO-logclass: 1222
+2020-01-02 15:19:39,914-root-ERROR-logclass: 1222
+2020-01-02 15:21:30,148-root-INFO-logclass: 1222
+2020-01-02 15:21:30,148-root-ERROR-logclass: 1222
+2020-01-02 15:21:57,641-root-INFO-logclass: 1222
+2020-01-02 15:21:57,642-root-ERROR-logclass: 1222
+2020-01-02 15:22:34,368-root-INFO-logclass: 1222
+2020-01-02 15:22:34,368-root-ERROR-logclass: 1222
+2020-01-02 15:23:30,482-root-INFO-logclass: 1222
+2020-01-02 15:23:30,482-root-ERROR-logclass: 1222
+2020-01-02 15:29:45,181-root-INFO-logclass: 1222
+2020-01-02 15:29:45,183-root-ERROR-logclass: 1222
+2020-01-02 15:30:18,171-root-INFO-logclass: 1222
+2020-01-02 15:30:18,171-root-ERROR-logclass: 1222
+2020-01-02 15:38:13,825-root-INFO-logclass: 1222
+2020-01-02 15:38:13,825-root-ERROR-logclass: 1222
+2020-01-02 15:38:13,834-root-ERROR-logclass: Traceback (most recent call last):
+  File "C:\Users\zhouyu18\untitled\devclient\src\plugins\broad.py", line 19, in linux
+    output = open(os.path.join(BASEDIR, 'files/board.out'), 'r').read()
+IOError: [Errno 2] No such file or directory: 'C:\\Users\\zhouyu18\\untitled\\devclient\\files/board.out'
+
+2020-01-02 15:38:46,688-root-INFO-logclass: 1222
+2020-01-02 15:38:46,688-root-ERROR-logclass: 1222
+2020-01-02 15:38:46,694-root-ERROR-logclass: Traceback (most recent call last):
+  File "C:\Users\zhouyu18\untitled\devclient\src\plugins\broad.py", line 19, in linux
+    output = open(os.path.join(BASEDIR, 'files/board.out'), 'r').read()
+IOError: [Errno 2] No such file or directory: 'C:\\Users\\zhouyu18\\untitled\\devclient\\files/board.out'
+
+2020-01-02 15:41:22,703-root-INFO-logclass: 1222
+2020-01-02 15:41:22,703-root-ERROR-logclass: 1222
+2020-01-02 15:42:50,780-root-INFO-logclass: 1222
+2020-01-02 15:42:50,780-root-ERROR-logclass: 1222
+2020-01-02 16:26:39,266-root-INFO-logclass: 1222
+2020-01-02 16:26:39,266-root-ERROR-logclass: 1222
+2020-01-02 16:27:18,417-root-INFO-logclass: 1222
+2020-01-02 16:27:18,417-root-ERROR-logclass: 1222
+2020-01-02 16:51:47,188-root-INFO-logclass: 1222
+2020-01-02 16:51:47,188-root-ERROR-logclass: 1222
+2020-01-02 16:52:43,401-root-INFO-logclass: 1222
+2020-01-02 16:52:43,401-root-ERROR-logclass: 1222
+2020-01-02 17:13:58,283-root-INFO-logclass: 1222
+2020-01-02 17:13:58,283-root-ERROR-logclass: 1222
+2020-01-02 17:26:33,138-root-INFO-logclass: 1222
+2020-01-02 17:26:33,138-root-ERROR-logclass: 1222
+2020-01-02 17:28:09,815-root-INFO-logclass: 1222
+2020-01-02 17:28:09,815-root-ERROR-logclass: 1222
+2020-01-02 17:30:47,548-root-INFO-logclass: 1222
+2020-01-02 17:30:47,548-root-ERROR-logclass: 1222
+2020-01-02 17:32:53,454-root-INFO-logclass: 1222
+2020-01-02 17:32:53,454-root-ERROR-logclass: 1222
+2020-01-02 17:36:30,417-root-INFO-logclass: 1222
+2020-01-02 17:36:30,417-root-ERROR-logclass: 1222
+2020-01-02 17:40:43,188-root-INFO-logclass: 1222
+2020-01-02 17:40:43,188-root-ERROR-logclass: 1222
+2020-01-02 17:41:05,880-root-INFO-logclass: 1222
+2020-01-02 17:41:05,881-root-ERROR-logclass: 1222
+2020-01-02 17:42:23,717-root-INFO-logclass: 1222
+2020-01-02 17:42:23,717-root-ERROR-logclass: 1222
+2020-01-02 17:44:49,142-root-INFO-logclass: 1222
+2020-01-02 17:44:49,142-root-ERROR-logclass: 1222
+2020-01-02 17:44:49,167-root-ERROR-logclass: Traceback (most recent call last):
+  File "C:\Users\zhouyu18\untitled\devclient\src\plugins\cpu.py", line 22, in linux
+    response.data = int(self.parse(output))
+TypeError: int() argument must be a string or a number, not 'dict'
+
+2020-01-02 17:47:10,816-root-INFO-logclass: 1222
+2020-01-02 17:47:10,816-root-ERROR-logclass: 1222
+2020-01-02 17:47:10,838-root-ERROR-logclass: Traceback (most recent call last):
+  File "C:\Users\zhouyu18\untitled\devclient\src\plugins\cpu.py", line 22, in linux
+    response.data = int(self.parse(output))
+TypeError: int() argument must be a string or a number, not 'dict'
+
+2020-01-02 17:54:17,417-root-INFO-logclass: 1222
+2020-01-02 17:54:17,417-root-ERROR-logclass: 1222
+2020-01-02 17:54:17,436-root-ERROR-logclass: Traceback (most recent call last):
+  File "C:\Users\zhouyu18\untitled\devclient\src\plugins\cpu.py", line 22, in linux
+    response.data = int(self.parse(output))
+TypeError: int() argument must be a string or a number, not 'dict'
+
+2020-01-02 17:55:37,937-root-INFO-logclass: 1222
+2020-01-02 17:55:37,937-root-ERROR-logclass: 1222
+2020-01-02 17:55:37,957-root-ERROR-logclass: Traceback (most recent call last):
+  File "C:\Users\zhouyu18\untitled\devclient\src\plugins\cpu.py", line 22, in linux
+    response.data = int(self.parse(output))
+TypeError: int() argument must be a string or a number, not 'dict'
+
+2020-01-02 17:57:28,864-root-INFO-logclass: 1222
+2020-01-02 17:57:28,865-root-ERROR-logclass: 1222
+2020-01-02 17:57:28,885-root-ERROR-logclass: Traceback (most recent call last):
+  File "C:\Users\zhouyu18\untitled\devclient\src\plugins\cpu.py", line 22, in linux
+    response.data = int(self.parse(output))
+TypeError: int() argument must be a string or a number, not 'dict'
+
+2020-01-02 17:59:42,184-root-INFO-logclass: 1222
+2020-01-02 17:59:42,184-root-ERROR-logclass: 1222
+2020-01-02 17:59:42,203-root-ERROR-logclass: Traceback (most recent call last):
+  File "C:\Users\zhouyu18\untitled\devclient\src\plugins\cpu.py", line 22, in linux
+    response.data = int(self.parse(output))
+TypeError: int() argument must be a string or a number, not 'dict'
+
+2020-01-02 18:00:48,713-root-INFO-logclass: 1222
+2020-01-02 18:00:48,713-root-ERROR-logclass: 1222
+2020-01-02 18:00:48,730-root-ERROR-logclass: Traceback (most recent call last):
+  File "C:\Users\zhouyu18\untitled\devclient\src\plugins\cpu.py", line 22, in linux
+    response.data = int(self.parse(output))
+TypeError: int() argument must be a string or a number, not 'dict'
+
+2020-01-02 18:01:20,000-root-INFO-logclass: 1222
+2020-01-02 18:01:20,000-root-ERROR-logclass: 1222
+2020-01-02 18:02:29,584-root-INFO-logclass: 1222
+2020-01-02 18:02:29,585-root-ERROR-logclass: 1222
+2020-01-02 18:06:45,742-root-INFO-logclass: 1222
+2020-01-02 18:06:45,742-root-ERROR-logclass: 1222
+2020-01-02 18:08:57,063-root-INFO-logclass: 1222
+2020-01-02 18:08:57,063-root-ERROR-logclass: 1222
+2020-01-02 18:10:44,408-root-INFO-logclass: 1222
+2020-01-02 18:10:44,408-root-ERROR-logclass: 1222
+2020-01-03 08:37:34,276-root-INFO-logclass: 1222
+2020-01-03 08:37:34,278-root-ERROR-logclass: 1222
+2020-01-03 08:40:39,523-root-INFO-logclass: 1222
+2020-01-03 08:40:39,523-root-ERROR-logclass: 1222
+2020-01-03 08:41:46,612-root-INFO-logclass: 1222
+2020-01-03 08:41:46,614-root-ERROR-logclass: 1222
+2020-01-03 08:42:11,509-root-INFO-logclass: 1222
+2020-01-03 08:42:11,509-root-ERROR-logclass: 1222
+2020-01-03 08:43:01,306-root-INFO-logclass: 1222
+2020-01-03 08:43:01,308-root-ERROR-logclass: 1222
+2020-01-03 08:44:18,766-root-INFO-logclass: 1222
+2020-01-03 08:44:18,766-root-ERROR-logclass: 1222
+2020-01-03 09:52:48,888-root-INFO-logclass: 1222
+2020-01-03 09:52:48,888-root-ERROR-logclass: 1222
+2020-01-03 09:53:47,178-root-INFO-logclass: 1222
+2020-01-03 09:53:47,178-root-ERROR-logclass: 1222
+2020-01-03 09:55:08,374-root-INFO-logclass: 1222
+2020-01-03 09:55:08,374-root-ERROR-logclass: 1222
+2020-01-03 09:56:27,500-root-INFO-logclass: 1222
+2020-01-03 09:56:27,502-root-ERROR-logclass: 1222
+2020-01-03 09:57:46,428-root-INFO-logclass: 1222
+2020-01-03 09:57:46,428-root-ERROR-logclass: 1222
+2020-01-03 09:58:24,253-root-INFO-logclass: 1222
+2020-01-03 09:58:24,253-root-ERROR-logclass: 1222
+2020-01-03 09:59:01,921-root-INFO-logclass: 1222
+2020-01-03 09:59:01,921-root-ERROR-logclass: 1222
+2020-01-03 10:24:50,749-root-INFO-logclass: 1222
+2020-01-03 10:24:50,750-root-ERROR-logclass: 1222
+2020-01-03 10:25:41,845-root-INFO-logclass: 1222
+2020-01-03 10:25:41,845-root-ERROR-logclass: 1222
+2020-01-03 10:43:58,490-root-INFO-logclass: 1222
+2020-01-03 10:43:58,490-root-ERROR-logclass: 1222
+2020-01-03 10:45:59,042-root-INFO-logclass: 1222
+2020-01-03 10:45:59,043-root-ERROR-logclass: 1222
+2020-01-03 10:47:07,068-root-INFO-logclass: 1222
+2020-01-03 10:47:07,068-root-ERROR-logclass: 1222
+2020-01-03 10:51:05,608-root-INFO-logclass: 1222
+2020-01-03 10:51:05,608-root-ERROR-logclass: 1222
+2020-01-03 10:53:26,915-root-INFO-logclass: 1222
+2020-01-03 10:53:26,915-root-ERROR-logclass: 1222
+2020-01-03 10:54:05,131-root-INFO-logclass: 1222
+2020-01-03 10:54:05,131-root-ERROR-logclass: 1222
+2020-01-03 10:58:12,460-root-INFO-logclass: 1222
+2020-01-03 10:58:12,460-root-ERROR-logclass: 1222
+2020-01-03 11:00:01,223-root-INFO-logclass: 1222
+2020-01-03 11:00:01,224-root-ERROR-logclass: 1222
+2020-01-03 14:02:38,813-root-INFO-logclass: 1222
+2020-01-03 14:02:38,815-root-ERROR-logclass: 1222
+2020-01-03 14:26:03,197-root-INFO-logclass: 1222
+2020-01-03 14:26:03,197-root-ERROR-logclass: 1222
+2020-01-03 14:31:41,523-root-INFO-logclass: 1222
+2020-01-03 14:31:41,523-root-ERROR-logclass: 1222
+2020-01-03 14:33:20,724-root-INFO-logclass: 1222
+2020-01-03 14:33:20,724-root-ERROR-logclass: 1222
+2020-01-03 14:34:08,273-root-INFO-logclass: 1222
+2020-01-03 14:34:08,276-root-ERROR-logclass: 1222
+2020-01-03 14:34:36,907-root-INFO-logclass: 1222
+2020-01-03 14:34:36,908-root-ERROR-logclass: 1222
+2020-01-03 14:35:28,223-root-INFO-logclass: 1222
+2020-01-03 14:35:28,223-root-ERROR-logclass: 1222
+2020-01-03 14:46:02,891-root-INFO-logclass: 1222
+2020-01-03 14:46:02,891-root-ERROR-logclass: 1222
+2020-01-03 14:46:55,686-root-INFO-logclass: 1222
+2020-01-03 14:46:55,686-root-ERROR-logclass: 1222
+2020-01-03 14:47:42,329-root-INFO-logclass: 1222
+2020-01-03 14:47:42,331-root-ERROR-logclass: 1222
+2020-01-03 14:48:14,651-root-INFO-logclass: 1222
+2020-01-03 14:48:14,653-root-ERROR-logclass: 1222
+2020-01-03 14:56:04,579-root-INFO-logclass: 1222
+2020-01-03 14:56:04,579-root-ERROR-logclass: 1222
+2020-01-03 15:35:16,875-root-INFO-logclass: 1222
+2020-01-03 15:35:16,875-root-ERROR-logclass: 1222
+2020-01-03 15:44:40,164-root-INFO-logclass: 1222
+2020-01-03 15:44:40,164-root-ERROR-logclass: 1222
+2020-01-03 15:45:22,194-root-INFO-logclass: 1222
+2020-01-03 15:45:22,196-root-ERROR-logclass: 1222
+2020-01-03 15:47:55,025-root-INFO-logclass: 1222
+2020-01-03 15:47:55,025-root-ERROR-logclass: 1222
+2020-01-03 15:49:18,778-root-INFO-logclass: 1222
+2020-01-03 15:49:18,778-root-ERROR-logclass: 1222
+2020-01-03 16:04:21,275-root-INFO-logclass: 1222
+2020-01-03 16:04:21,283-root-ERROR-logclass: 1222
+2020-01-03 16:05:13,822-root-INFO-logclass: 1222
+2020-01-03 16:05:13,822-root-ERROR-logclass: 1222
+2020-01-03 16:05:49,088-root-INFO-logclass: 1222
+2020-01-03 16:05:49,089-root-ERROR-logclass: 1222
+2020-01-03 16:06:41,138-root-INFO-logclass: 1222
+2020-01-03 16:06:41,138-root-ERROR-logclass: 1222
+2020-01-03 16:08:51,391-root-INFO-logclass: 1222
+2020-01-03 16:08:51,391-root-ERROR-logclass: 1222
+2020-01-03 16:09:24,000-root-INFO-logclass: 1222
+2020-01-03 16:09:24,000-root-ERROR-logclass: 1222
+2020-01-03 16:10:06,355-root-INFO-logclass: 1222
+2020-01-03 16:10:06,355-root-ERROR-logclass: 1222
+2020-01-03 16:11:28,615-root-INFO-logclass: 1222
+2020-01-03 16:11:28,615-root-ERROR-logclass: 1222
+2020-01-03 16:12:44,447-root-INFO-logclass: 1222
+2020-01-03 16:12:44,448-root-ERROR-logclass: 1222
+2020-01-03 16:13:29,917-root-INFO-logclass: 1222
+2020-01-03 16:13:29,918-root-ERROR-logclass: 1222
+2020-01-03 16:14:18,562-root-INFO-logclass: 1222
+2020-01-03 16:14:18,562-root-ERROR-logclass: 1222
+2020-01-03 16:15:21,375-root-INFO-logclass: 1222
+2020-01-03 16:15:21,375-root-ERROR-logclass: 1222
+2020-01-03 16:15:36,153-root-INFO-logclass: 1222
+2020-01-03 16:15:36,154-root-ERROR-logclass: 1222
+2020-01-03 16:16:09,374-root-INFO-logclass: 1222
+2020-01-03 16:16:09,374-root-ERROR-logclass: 1222
+2020-01-03 16:16:58,875-root-INFO-logclass: 1222
+2020-01-03 16:16:58,875-root-ERROR-logclass: 1222
+2020-01-03 16:18:16,013-root-INFO-logclass: 1222
+2020-01-03 16:18:16,013-root-ERROR-logclass: 1222
+2020-01-03 16:35:26,877-root-INFO-logclass: 1222
+2020-01-03 16:35:26,877-root-ERROR-logclass: 1222
+2020-01-03 16:35:39,118-root-INFO-logclass: 1222
+2020-01-03 16:35:39,118-root-ERROR-logclass: 1222
+2020-01-03 16:36:38,053-root-INFO-logclass: 1222
+2020-01-03 16:36:38,053-root-ERROR-logclass: 1222
+2020-01-03 16:37:53,759-root-INFO-logclass: 1222
+2020-01-03 16:37:53,759-root-ERROR-logclass: 1222
+2020-01-03 16:38:23,009-root-INFO-logclass: 1222
+2020-01-03 16:38:23,010-root-ERROR-logclass: 1222
+2020-01-03 16:38:55,180-root-INFO-logclass: 1222
+2020-01-03 16:38:55,180-root-ERROR-logclass: 1222
+2020-01-03 16:40:40,269-root-INFO-logclass: 1222
+2020-01-03 16:40:40,269-root-ERROR-logclass: 1222
+2020-01-03 16:54:32,450-root-INFO-logclass: 1222
+2020-01-03 16:54:32,450-root-ERROR-logclass: 1222
+2020-01-03 16:56:13,382-root-INFO-logclass: 1222
+2020-01-03 16:56:13,382-root-ERROR-logclass: 1222
+2020-01-03 16:57:50,595-root-INFO-logclass: 1222
+2020-01-03 16:57:50,595-root-ERROR-logclass: 1222
+2020-01-03 17:00:06,005-root-INFO-logclass: 1222
+2020-01-03 17:00:06,005-root-ERROR-logclass: 1222

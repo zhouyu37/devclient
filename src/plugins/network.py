@@ -3,6 +3,9 @@
 import os
 import re
 from .BasePlugin import BasePluginClass
+import traceback
+from lib.logclass import logger
+from lib.response import BaseResponse
 
 class Net(BasePluginClass):
     def win(self, handler, hostname):
@@ -14,13 +17,21 @@ class Net(BasePluginClass):
         return result
 
     def linux(self,handler,hostname):
-        if self.debug:
-            output = open(os.path.join(self.base_dir, 'files/nic.out'), 'r').read()
-            interfaces_info = self._interfaces_ip(output)
-        else:
-            interfaces_info = self.linux_interfaces(handler)
-        self.standard(interfaces_info)
-        return interfaces_info
+        result = BaseResponse()
+        try:
+            if self.debug:
+                output = open(os.path.join(self.base_dir, 'files/nic.out'), 'r').read()
+                interfaces_info = self._interfaces_ip(output)
+            else:
+                interfaces_info = self.linux_interfaces(handler)
+            self.standard(interfaces_info)
+            result.data = interfaces_info
+        except Exception as e:
+            msg = traceback.format_exc()
+            result.status = False
+            result.error = msg
+            logger.error(msg)
+        return result.dict
 
 
     def linux_interfaces(self,handler):

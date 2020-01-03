@@ -3,6 +3,10 @@
 import os
 from .BasePlugin import BasePluginClass
 from lib import convert
+import traceback
+from lib.logclass import logger
+from lib.response import BaseResponse
+
 class Mem(BasePluginClass):
     def win(self, handler, hostname):
         """
@@ -13,13 +17,24 @@ class Mem(BasePluginClass):
         return result
 
     def linux(self,handler,hostname):
+        result = BaseResponse()
+        try:
+            if self.debug:
+                output = open(os.path.join(self.base_dir, 'files/memory.out'), 'r').read()
+            else:
+                shell_command = "sudo dmidecode  -q -t 17 2>/dev/null"
+                output = handler.cmd(shell_command,hostname)
+            result.data = self.parse(output)
+        except Exception as e:
+            msg = traceback.format_exc()
+            result.status = False
+            result.error = msg
+            logger.error(msg)
+        for k,v in result.data.items():
+            if  v['capacity'] == "No":
+                del result.data[k]
+        return result.dict
 
-        if self.debug:
-            output = open(os.path.join(self.base_dir, 'files/memory.out'), 'r').read()
-        else:
-            shell_command = "sudo dmidecode  -q -t 17 2>/dev/null"
-            output = handler.cmd(shell_command,hostname)
-        return self.parse(output)
 
     def parse(self, content):
         """
@@ -54,7 +69,7 @@ class Mem(BasePluginClass):
                     value = ""
                 if key in key_map:
                     if key == 'Size':
-                        segment[key_map['Size']] = value
+                        segment[key_map['Size']] = value.split()[0]
                     else:
                         segment[key_map[key.strip()]] = value.strip()
             ram_dict[segment['slot']] = segment

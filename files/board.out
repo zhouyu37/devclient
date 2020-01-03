@@ -1,0 +1,17 @@
+# dmidecode 2.12-dmifs
+# SMBIOS entry point at 0x000f05e0
+SMBIOS 3.0 present.
+# SMBIOS implementations newer than version 2.8 are not
+# fully supported by this version of dmidecode.
+
+Handle 0x0001, DMI type 1, 27 bytes
+System Information
+	Manufacturer: LENOVO
+	Product Name: ThinkServer RD650
+	Version: 70D0A012CN
+	Serial Number: PC0C6Y1R
+	UUID: 32D32CD4-550C-E611-98A0-3C18A004F5ED
+	Wake-up Type: Power Switch
+	SKU Number: LENOVO_MT_ND
+	Family: ThinkServer
+
